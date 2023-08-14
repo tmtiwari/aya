@@ -18,7 +18,7 @@ bytes = "1"
 lazy_static = "1"
 libc = { version = "0.2.105" }
 log = "0.4"
-object = { version = "0.31", default-features = false, features = [
+object = { version = "0.32", default-features = false, features = [
     "std",
     "read_core",
     "elf",
